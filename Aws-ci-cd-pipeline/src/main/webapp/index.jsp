@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Aws Spring Boot</title>
 </head>
 <body>
-hi
+    <h1>Welcome to Aws Spring Boot Deployment</h1>
 </body>
 </html>
